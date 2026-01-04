@@ -1,0 +1,16 @@
+venv/
+.venv/
+venv310/
+__pycache__/
+dist/
+build/
+*.spec
+*.log
+*.pyc
+*.pyo
+*.pyd
+.env
+ENV/
+env/
+output_keyboard.pdf
+.cache/
